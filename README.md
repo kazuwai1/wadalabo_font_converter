@@ -10,6 +10,6 @@ x68kで使えるフリーの所愛倶楽部フォントないかな・・・と�
  すべての文字の表示を確認したわけではありませんので、不具合とかあるかもしれませんがそこは自己責任でご使用ください。  
  
  オリジナルのフォントファイルおよび変換プログラムのライセンスについては  
- https://gps.tanaka.ecc.u-tokyo.ac.jp/wadalabfont/index.php?%A5%E9%A5%A4%A5%BB%A5%F3%A5%B9  
+　　https://gps.tanaka.ecc.u-tokyo.ac.jp/wadalabfont/index.php?%A5%E9%A5%A4%A5%BB%A5%F3%A5%B9  
  が適用されると考えていますが、「使用にあたっての連絡は必要ない」となっていますのでこの変換プログラムの扱いも同様とします。  
  
